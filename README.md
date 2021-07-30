@@ -17,7 +17,7 @@ Student ID Card generator project build using HTML and Javascript
 <h2>Project Screenshots:-</h2>
 <h3>Desktop View:-</h3>
 <div><span><img src="https://res.cloudinary.com/dhfpcwwq0/image/upload/v1627650508/project/Screenshot_23_cqcvnm.png" width="500px"></span>
-     <span><img src="https://res.cloudinary.com/dhfpcwwq0/image/upload/v1627650508/project/Screenshot_24_uz7mwo.png" width="500px"></span>
+     <span><img src="https://res.cloudinary.com/dhfpcwwq0/image/upload/v1627650508/project/Screenshot_24_uz7mwo.png" width="400px"></span>
 </div>
   
 <h3>Mobile View:-</h3>
