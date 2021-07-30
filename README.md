@@ -1,4 +1,4 @@
-# Id-card-generator
+# Student-Id-Card-Generator
 <img src="https://socialify.git.ci/Sumitkmr13/student-id-card-generator/image?font=Inter&language=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark" width="800px">
 Student ID Card generator project build using HTML and Javascript
 
@@ -16,7 +16,10 @@ Student ID Card generator project build using HTML and Javascript
 <br></br>
 <h2>Project Screenshots:-</h2>
 <h3>Desktop View:-</h3>
-<img src="https://res.cloudinary.com/dhfpcwwq0/image/upload/v1627476246/Screenshot_11_brpepo.png" width="500px">
+<div><span><img src="https://res.cloudinary.com/dhfpcwwq0/image/upload/v1627650508/project/Screenshot_23_cqcvnm.png" width="500px"></span>
+  <span><img src="https://res.cloudinary.com/dhfpcwwq0/image/upload/v1627650508/project/Screenshot_24_uz7mwo.png" width="500px"></span></div>
+  
 <h3>Mobile View:-</h3>
-<img src="https://res.cloudinary.com/dhfpcwwq0/image/upload/v1627477113/Screenshot_13_cpfxcv.png" height="400px">
+<div><span><img src="https://res.cloudinary.com/dhfpcwwq0/image/upload/v1627650508/project/Screenshot_25_tgitwi.png" height="500px"></span>
+  <span><img src="https://res.cloudinary.com/dhfpcwwq0/image/upload/v1627650508/project/Screenshot_26_k6uxbw.png" height="500px"></span></div>
 
