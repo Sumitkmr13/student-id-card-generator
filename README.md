@@ -12,7 +12,7 @@ Student ID Card generator project build using HTML and Javascript
  
   <li>CSS Animations</li>
   </ol>
-## Demo:-https://student-id-card-generator.netlify.app/
+<h2>Demo:- https://student-id-card-generator.netlify.app/ </h2>
 <br></br>
 <h2>Project Screenshots:-</h2>
 <h3>Desktop View:-</h3>
